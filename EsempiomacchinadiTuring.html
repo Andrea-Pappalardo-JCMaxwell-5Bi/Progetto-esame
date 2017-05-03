@@ -1,0 +1,57 @@
+﻿<html>
+	<head>
+		<title>Informatica e Matematica</title>
+	</head>
+		<body>
+			<B><FONT FACE="Comic Sans MS"><FONT color="red">Esempio</FONT></FONT></B>
+			<p><FONT FACE="Comic Sans MS">Progettiamo una semplice MDT con alfabeto α ≡{X,Y,-} che, disponendo di un nastro che contiene inizialmente una sequenza di simboli di α, scambi tutte le occorrenze del simbolo X con Y e viceversa.
+			Assumendo che la tesina sia inizialmente posizionata sul simbolo pi&ugrave a sinistra della sequenza, dobbiamo cambiare una X in Y o, viceversa, una Y in X e successivamente spostare la tesina sulla cella immediatamente a destra. 
+			La matrice funzionale di questa MDT sar&agrave:
+			</p>
+				<table border='1' bgcolor="black" width='1200' align='center'>
+					<tr bgcolor="white">
+  						<td align="center"><B> Stato corrente </B></td>
+   						<td align="center"><B> Simbolo lettore </B></td>
+   						<td align="center"><B> Nuovo stato </B></td>
+						<td align="center"><B> Simbolo scritto </B></td>
+						<td align="center"><B> Spostamento </B></td>
+   					</tr>
+					<tr bgcolor="white">
+	        			<td align="center"><B> 0 </B></td>
+   						<td align="center"><B> X </B></td>
+						<td align="center"><B> 0 </B></td>
+   						<td align="center"><B> Y </B></td>
+						<td align="center"><B> > </B></td>
+					</tr>
+					<tr bgcolor="white">
+   						<td align="center"><B> 0 </B></td>
+   						<td align="center"><B> Y </B></td>
+   						<td align="center"><B> 0 </B></td>
+   						<td align="center"><B> X </B></td>
+   						<td align="center"><B> > </B></td>
+					</tr>
+				</table>
+			<br>
+			In questo esempio si &egrave fatto uso di un solo stato e la tesina si sposta solo da sinistra verso destra, fino a che non si incontra un simbolo blank che indica a fine della sequenza di simboli. Non essendo presente alcuna regola per questo simbolo, il procedimento termina.
+			Supponendo di avere inizialmente sul nastro la sequenza <B>''XXYX''</B> otteniamo le trasformazioni che ci sono in questa immagine.
+
+			<p><center><IMG SRC="FotoEsempio.jpg" border="4" WIDTH=30% HEIGHT=55%></center></p>			
+ 
+			</FONT>
+			
+				<table>
+					<tr>
+						<td width="1500">
+							<button>
+								<a align="right" href="file:///C:/Users/Utente/Desktop/Esame/Alan%20Turing/EsempiomacchinadiTuring.html">Torna Indietro</a>
+							</button> 
+						</td>
+						<td>
+							<button>
+							    <a href="file:///C:/Users/Utente/Desktop/Esame/SitowebEsame.html">Home Page</a> 
+							</button> 
+						</td>
+					</tr>
+				</table>
+		</body>
+</html>
