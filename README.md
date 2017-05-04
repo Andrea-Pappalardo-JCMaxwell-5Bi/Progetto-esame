@@ -16,7 +16,7 @@ Il sito web ha come obiettivo nel trascrivere tutta la tesina in un sito web sot
 E la soluzione per raggiungere questo obiettivo sono questi punti:
 * aprire notepad ++
 * andare su new project
-* utilizzare i comandi html che servono a realizzare le pagine 
+* utilizzare i comandi html che servono per realizzare le pagine 
 * tornare su word e suddividere il testo di ogni materia in punti da poter inserirli nel body
 * dividere i punti in gruppi a seconda di quanti ne hai messi  
 * inserire immagini o sfondi (se si vuole) sempre nel body
