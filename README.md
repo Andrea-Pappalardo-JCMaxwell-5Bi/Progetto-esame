@@ -23,7 +23,7 @@ E la soluzione per raggiungere questo obiettivo sono questi punti:
 * aprire il codice su varie piattaforme (internet explorer, mozilla firefox, etc.)
 
 # Materiale del progetto/tesina
-Questi sono i materiali che ho utilizzato per realizzare il progetto/tesina.
+Questo è il materiale che ho utilizzato per realizzare il progetto/tesina.
 * Tesina
 1) Word
 * Sito web
