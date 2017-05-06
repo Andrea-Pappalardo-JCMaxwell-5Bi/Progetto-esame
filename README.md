@@ -1,4 +1,4 @@
-# Progetto/Tesina-esame
+# Progetto/tesina-esame
 Trasmettere le tesina in una versione virtuale usando notepad ++ con i comandi html, creando un sito web basato sulla tesina.
 
 # Descrizione del progetto/tesina
@@ -21,6 +21,13 @@ E la soluzione per raggiungere questo obiettivo sono questi punti:
 * dividere i punti in gruppi a seconda di quanti ne hai messi  
 * inserire immagini o sfondi (se si vuole) sempre nel body
 * aprire il codice su varie piattaforme (internet explorer, mozilla firefox, etc.)
+
+# Materiale del progetto/tesina
+Questi sono i materiali che ho utilizzato per realizzare il progetto/tesina.
+* Tesina
+1) Word
+* Sito web
+1) notepad ++
 
 # Collegamenti della tesina/progetto
 La tesina/progetto presenta le materie con gli argomenti e i rispettivi collegamenti:
