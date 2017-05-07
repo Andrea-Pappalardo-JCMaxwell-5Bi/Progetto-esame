@@ -24,10 +24,11 @@ E la soluzione per raggiungere questo obiettivo sono questi punti:
 
 # Materiale del progetto/tesina
 Questo è il materiale che ho utilizzato per realizzare il progetto/tesina.
-* Tesina
-1) Word
-* Sito web
-1) notepad ++
+
+Tesina
+* Word
+Sito web
+* notepad ++
 
 # Collegamenti della tesina/progetto
 La tesina/progetto presenta le materie con gli argomenti e i rispettivi collegamenti:
