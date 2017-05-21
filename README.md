@@ -31,13 +31,13 @@ Tesina
 Sito web
 * notepad ++
 
-# Collegamenti della tesina/progetto
-La tesina/progetto presenta le materie con gli argomenti e i rispettivi collegamenti:
+# Collegamenti del progetto/tesina
+Il progetto/tesina/ presenta le materie con gli argomenti e i rispettivi collegamenti:
 * Italiano: Giuseppe Ungaretti (vita + poesia e guerra)
 * Storia: E finalmente Enigma fu svelato 
 * Informatica, Sistemi e Reti e Matematica: Alan Turing (vita)
 * Informatica e Matematica: La macchina di Turing
-* Sistemi e Reti e Informatica: Crittografia (asimmetrica e simmetrica) e Alan Turing (eperienza da crittografo)
+* Sistemi e Reti e Informatica: Crittografia 
 * Inglese: Alan Turing (vita in inglese)
 * Gestione Progetto: Le 5 fasi del ciclo di vita che ho utilizzato nel progetto 
-* TST: Progettazione tesina/progetto
+* TST: Progettazione progetto/tesina su GITHUB
