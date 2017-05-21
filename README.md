@@ -12,7 +12,7 @@ E la soluzione per raggiungere questo obiettivo sono questi punti:
 * andare su word ad intestare il foglio e scrivere (e mettere immagini) su tutto ciò che ti sei appuntato   
 
 # Sito web
-Il sito web ha come obiettivo nel trascrivere tutta la tesina in un sito web sotto forma di power point e che deve essere visibile a tutti.
+Il sito web ha come obiettivo nel trascrivere tutta la tesina in un sito web sotto forma di power point rendendolo visibile a tutti.
 E la soluzione per raggiungere questo obiettivo sono questi punti:
 * aprire notepad ++
 * andare su new project
