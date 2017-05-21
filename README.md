@@ -32,7 +32,7 @@ Sito web
 * notepad ++
 
 # Collegamenti del progetto/tesina
-Il progetto/tesina/ presenta le materie con gli argomenti e i rispettivi collegamenti:
+Il progetto/tesina presenta le materie con gli argomenti e i rispettivi collegamenti:
 * Italiano: Giuseppe Ungaretti (vita + poesia e guerra)
 * Storia: E finalmente Enigma fu svelato 
 * Informatica, Sistemi e Reti e Matematica: Alan Turing (vita)
