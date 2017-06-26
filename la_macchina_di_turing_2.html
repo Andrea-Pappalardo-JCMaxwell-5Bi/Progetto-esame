@@ -1,0 +1,45 @@
+<html>
+	<head>
+		<title>Informatica e Matematica</title>
+	</head>
+		<body bgcolor="cyan">
+			<br>
+			<B><center><FONT FACE="Comic Sans MS"><FONT SIZE="4"><FONT color="blue">LA MACCHINA DI TURING</FONT</FONT></FONT></center></B>
+			<br>
+			<br>
+			<FONT FACE="Comic Sans MS">
+			<FONT SIZE="4">
+			<p>
+				La MdT analizza il contenuto delle caselle una cella alla volta, cominciando dalla cella contenente un simbolo diverso da blank. Il funzionamento avviene per passi: a ogni passo la macchina legge un simbolo sul nastro e in base al suo stato interno:	
+				<UL><LI>modifica il suo interno;</UL>
+				<UL><LI>scrive un simbolo dell'alfabeto sul nastro;</UL>
+				<UL><LI>sposta la tesina a sinistra (<) o a destra (>) di una casella.</UL>
+
+				Lo <B>stato interno</B> della MDT definisce il contesto in cui una decisione viene presa.
+				<br>
+				<br>
+				Il <B>comportamento</B> della MDT pu&ograve essere programmato definendo un insieme di regole del tipo:
+				<p>
+				<B><center>(stato-corrente, simbolo-letto, nuovo-stato, simbolo-scritto, direzione)</center></B>
+				</p>
+				Essendo composta da cinque elementi, la singola regola viene chiamata quintupla; essa stabilisce il nuovo stato interno, il simbolo da scrivere sul nastro e la direzione di spostamento a partire dal suo stato interno attuale e del simbolo presente sul nastro nella posizione corrente della tesina.<br> Questo programma, costituito dalle quintuple che si possono applicare nella MDT si chiama <B>matrice funzionale</B>. 
+				</FONT>
+			</p>
+			<br>
+			<table>
+				<tr>
+					<td width="1500">
+						<button>
+							<a href="home_la_macchina_di_turing.html">Torna Indietro</a>
+						</button> 
+					</td>
+					<td>
+						<button>
+							<a align="right" href="esempio_macchina_di_turing.html">Esempio</a>
+						</button> 
+					</td>
+				</tr>
+			</table>
+			
+		</body>
+</html>
